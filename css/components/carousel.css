@@ -1,6 +1,10 @@
 .carousel-recipes{
-    background: #ffffff;
-    border: 1px solid #696666;
+    background: #c2c1c1;
+    border: 1px solid #ffffff;
     height: 80vh;
     opacity: .5;
+    border-radius: 10px;
+    padding: 2em;
+    text-decoration: none;
+    text-decoration-line: none;
 }

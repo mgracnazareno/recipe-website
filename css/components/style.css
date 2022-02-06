@@ -1,3 +1,6 @@
+/* Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;500;700&family=Karla:wght@400;700&family=Roboto:wght@300;700&display=swap');
+/* Components */
 @import url("../components/container.css");
 @import url("./carousel.css");
 
@@ -17,6 +20,7 @@ body {
 
 h1{
     text-align: center;
-    font-size: 1.5 rem;
+    font-size: 1.75 rem;
     text-shadow: 1px 1px 3px #1f1f1f;
+    font-family: 'Dancing Script', cursive;
 }

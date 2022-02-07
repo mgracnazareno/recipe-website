@@ -6,8 +6,9 @@
     font-weight: bold;
     font-family: 'Dancing Script', cursive;
 
-    display: flex;
-    align-self: center;
-    justify-content: space-evenly;
-    flex-wrap: row nowrap;
+    /* display: flex;
+    justify-content: space-between;
+    flex-flow: column nowrap;
+    gap: 20px; */
 }
+

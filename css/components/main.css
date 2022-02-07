@@ -1,0 +1,13 @@
+.main {
+    padding: 3em;
+    max-width: 100%;
+    color: #050505; 
+    font-size: 2em;
+    font-weight: bold;
+    font-family: 'Dancing Script', cursive;
+
+    display: flex;
+    align-self: center;
+    justify-content: center;
+    flex-wrap: row nowrap;
+}

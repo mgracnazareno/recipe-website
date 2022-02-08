@@ -2,22 +2,24 @@
     max-width: 80%;
     margin: 0 auto;
     padding: 0;  
-}
 
-.wrapper-recipe .container {
-    
+}
+h2 {
+    font-weight: bold;
 }
 .wrapper-recipe h1 {
     text-align: center;
-    width: 80%;
+    width: 60%;
 }
 .main-details {
-    border: 1px solid #f9f4f4;
+    border: 1px solid rgb(47, 45, 45, 0.25);
+    background-color: rgb(47, 45, 45, 0.25);
     border-radius: 18px;
-    background-color: #2f2d2d;
+    box-shadow: 2px 2px 2px rgba(0, 0, 0, 1);
     margin: 1.5em;
     font-size: 1.25rem;
-    padding: 2rem;   
+    padding: 2rem;  
+    line-height: 1.5;
 }
 
 .img-flex{
@@ -29,8 +31,10 @@
 .details-middle {
     display: flex;
     justify-content: space-between;
+    flex-direction: row;
+    align-items: center;
     margin: 0 2em;
-    gap: 3em;
+    gap: 2.5em;
 }
 
 .main-recipe .text-bottom {

@@ -1,7 +1,8 @@
 .main {
     display: flex;
-    flex-flow: row wrap;
-    justify-content: center;
+    flex-flow: row nowrap;
+    justify-content: space-between;
+    align-content: center;
     /* align-content: space-between; */
     gap: 2em;
     padding: 1em;
@@ -10,13 +11,17 @@
 
 .card {
     border: 1px solid #0d0d0d14;
-    border-radius: 8px;    
+    border-radius: 8px; 
 }
 
 .card .card-details {
     text-align: center;
     padding: 1em;
     opacity: 0.6;
+}
+
+.card-recipe .card-img{
+    overflow: hidden;
 }
 .card-recipe > .card-details {
     font-weight: 700;

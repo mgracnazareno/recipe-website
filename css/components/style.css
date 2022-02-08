@@ -45,7 +45,7 @@ p {
 }
 p, li{
     line-height: 1.2;
-    /* font-size: 1.25em; */
+    font-size: 1.em;
     min-width: 50%;
 }
 img{

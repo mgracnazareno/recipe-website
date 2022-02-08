@@ -7,7 +7,8 @@
 @import url("../components/main.css");
 @import url("../components/card.css"); 
 @import url("../components/recipe.css");  
-@import url("../components/salisbury.css");                                                        
+@import url("../components/salisbury.css");   
+@import url("../components/button.css");                                                     
 
 * {
     box-sizing: border-box;

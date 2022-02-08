@@ -1,6 +1,6 @@
 # odin-recipes
 Check my Recipe Website Project
-[Recipe-Website](https://mgracnazareno.github.io/recipe-website/) 
+[Recipe-Website-Link](https://mgracnazareno.github.io/recipe-website/) 
 </br>
 
 

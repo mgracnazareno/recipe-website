@@ -1,14 +1,27 @@
 .main {
-    padding: 3em;
-    max-width: 100%;
-    color: #050505; 
-    font-size: 2em;
-    font-weight: bold;
-    font-family: 'Dancing Script', cursive;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    /* align-content: space-between; */
+    gap: 2em;
+    padding: 1em;
+    margin: 1em 0; 
+}
 
-    /* display: flex;
-    justify-content: space-between;
-    flex-flow: column nowrap;
-    gap: 20px; */
+.card {
+    border: 1px solid #0d0d0d14;
+    border-radius: 8px;    
+}
+
+.card .card-details {
+    text-align: center;
+    padding: 1em;
+    opacity: 0.6;
+}
+.card-recipe > .card-details {
+    font-weight: 700;
+    font-family: 'Karla', sans-serif;
+    font-size: 1rem;
+    
 }
 

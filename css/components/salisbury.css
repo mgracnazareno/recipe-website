@@ -1,0 +1,39 @@
+.wrapper-recipe {
+    max-width: 80%;
+    margin: 0 auto;
+    padding: 0;  
+}
+
+.wrapper-recipe .container {
+    
+}
+.wrapper-recipe h1 {
+    text-align: center;
+    width: 80%;
+}
+.main-details {
+    border: 1px solid #f9f4f4;
+    border-radius: 18px;
+    background-color: #2f2d2d;
+    margin: 1.5em;
+    font-size: 1.25rem;
+    padding: 2rem;   
+}
+
+.img-flex{
+    /* background-size: cover;
+    background-position: center; */
+    border-radius: 6px;
+
+}
+.details-middle {
+    display: flex;
+    justify-content: space-between;
+    margin: 0 2em;
+    gap: 3em;
+}
+
+.main-recipe .text-bottom {
+    margin: 24px 12px;
+    padding: 4rem
+}
